@@ -1,0 +1,15 @@
+/Users/palppv/Desktop/lab7_dobreva/lab7_2/lab7_2/bin/Debug/net7.0/lab7_2
+/Users/palppv/Desktop/lab7_dobreva/lab7_2/lab7_2/bin/Debug/net7.0/lab7_2.deps.json
+/Users/palppv/Desktop/lab7_dobreva/lab7_2/lab7_2/bin/Debug/net7.0/lab7_2.runtimeconfig.json
+/Users/palppv/Desktop/lab7_dobreva/lab7_2/lab7_2/bin/Debug/net7.0/lab7_2.dll
+/Users/palppv/Desktop/lab7_dobreva/lab7_2/lab7_2/bin/Debug/net7.0/lab7_2.pdb
+/Users/palppv/Desktop/lab7_dobreva/lab7_2/lab7_2/obj/Debug/net7.0/lab7_2.csproj.AssemblyReference.cache
+/Users/palppv/Desktop/lab7_dobreva/lab7_2/lab7_2/obj/Debug/net7.0/lab7_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/palppv/Desktop/lab7_dobreva/lab7_2/lab7_2/obj/Debug/net7.0/lab7_2.AssemblyInfoInputs.cache
+/Users/palppv/Desktop/lab7_dobreva/lab7_2/lab7_2/obj/Debug/net7.0/lab7_2.AssemblyInfo.cs
+/Users/palppv/Desktop/lab7_dobreva/lab7_2/lab7_2/obj/Debug/net7.0/lab7_2.csproj.CoreCompileInputs.cache
+/Users/palppv/Desktop/lab7_dobreva/lab7_2/lab7_2/obj/Debug/net7.0/lab7_2.dll
+/Users/palppv/Desktop/lab7_dobreva/lab7_2/lab7_2/obj/Debug/net7.0/refint/lab7_2.dll
+/Users/palppv/Desktop/lab7_dobreva/lab7_2/lab7_2/obj/Debug/net7.0/lab7_2.pdb
+/Users/palppv/Desktop/lab7_dobreva/lab7_2/lab7_2/obj/Debug/net7.0/lab7_2.genruntimeconfig.cache
+/Users/palppv/Desktop/lab7_dobreva/lab7_2/lab7_2/obj/Debug/net7.0/ref/lab7_2.dll
