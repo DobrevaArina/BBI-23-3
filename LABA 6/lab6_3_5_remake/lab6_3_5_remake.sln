@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab6_3_5_remake", "lab6_3_5_remake\lab6_3_5_remake.csproj", "{61822159-58D9-443E-A2D4-41BD1D6647C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61822159-58D9-443E-A2D4-41BD1D6647C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61822159-58D9-443E-A2D4-41BD1D6647C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61822159-58D9-443E-A2D4-41BD1D6647C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61822159-58D9-443E-A2D4-41BD1D6647C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86061D76-8D13-4DB3-B5FE-E3222B18ED35}
+	EndGlobalSection
+EndGlobal

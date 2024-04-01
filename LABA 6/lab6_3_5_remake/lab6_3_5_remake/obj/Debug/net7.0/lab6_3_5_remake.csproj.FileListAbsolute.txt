@@ -1,0 +1,15 @@
+/Users/palppv/Projects/lab6_3_5_remake/lab6_3_5_remake/bin/Debug/net7.0/lab6_3_5_remake
+/Users/palppv/Projects/lab6_3_5_remake/lab6_3_5_remake/bin/Debug/net7.0/lab6_3_5_remake.deps.json
+/Users/palppv/Projects/lab6_3_5_remake/lab6_3_5_remake/bin/Debug/net7.0/lab6_3_5_remake.runtimeconfig.json
+/Users/palppv/Projects/lab6_3_5_remake/lab6_3_5_remake/bin/Debug/net7.0/lab6_3_5_remake.dll
+/Users/palppv/Projects/lab6_3_5_remake/lab6_3_5_remake/bin/Debug/net7.0/lab6_3_5_remake.pdb
+/Users/palppv/Projects/lab6_3_5_remake/lab6_3_5_remake/obj/Debug/net7.0/lab6_3_5_remake.csproj.AssemblyReference.cache
+/Users/palppv/Projects/lab6_3_5_remake/lab6_3_5_remake/obj/Debug/net7.0/lab6_3_5_remake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/palppv/Projects/lab6_3_5_remake/lab6_3_5_remake/obj/Debug/net7.0/lab6_3_5_remake.AssemblyInfoInputs.cache
+/Users/palppv/Projects/lab6_3_5_remake/lab6_3_5_remake/obj/Debug/net7.0/lab6_3_5_remake.AssemblyInfo.cs
+/Users/palppv/Projects/lab6_3_5_remake/lab6_3_5_remake/obj/Debug/net7.0/lab6_3_5_remake.csproj.CoreCompileInputs.cache
+/Users/palppv/Projects/lab6_3_5_remake/lab6_3_5_remake/obj/Debug/net7.0/lab6_3_5_remake.dll
+/Users/palppv/Projects/lab6_3_5_remake/lab6_3_5_remake/obj/Debug/net7.0/refint/lab6_3_5_remake.dll
+/Users/palppv/Projects/lab6_3_5_remake/lab6_3_5_remake/obj/Debug/net7.0/lab6_3_5_remake.pdb
+/Users/palppv/Projects/lab6_3_5_remake/lab6_3_5_remake/obj/Debug/net7.0/lab6_3_5_remake.genruntimeconfig.cache
+/Users/palppv/Projects/lab6_3_5_remake/lab6_3_5_remake/obj/Debug/net7.0/ref/lab6_3_5_remake.dll
