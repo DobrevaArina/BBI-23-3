@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\лаба 6 1 5\лаба 6 1 5\obj\Debug\net6.0\лаба 6 1 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\лаба 6 1 5\лаба 6 1 5\obj\Debug\net6.0\лаба 6 1 5.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\лаба 6 1 5\лаба 6 1 5\obj\Debug\net6.0\лаба 6 1 5.AssemblyInfo.cs
+C:\Users\user\source\repos\лаба 6 1 5\лаба 6 1 5\obj\Debug\net6.0\лаба 6 1 5.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\лаба 6 1 5\лаба 6 1 5\bin\Debug\net6.0\лаба 6 1 5.exe
+C:\Users\user\source\repos\лаба 6 1 5\лаба 6 1 5\bin\Debug\net6.0\лаба 6 1 5.deps.json
+C:\Users\user\source\repos\лаба 6 1 5\лаба 6 1 5\bin\Debug\net6.0\лаба 6 1 5.runtimeconfig.json
+C:\Users\user\source\repos\лаба 6 1 5\лаба 6 1 5\bin\Debug\net6.0\лаба 6 1 5.dll
+C:\Users\user\source\repos\лаба 6 1 5\лаба 6 1 5\bin\Debug\net6.0\лаба 6 1 5.pdb
+C:\Users\user\source\repos\лаба 6 1 5\лаба 6 1 5\obj\Debug\net6.0\лаба 6 1 5.dll
+C:\Users\user\source\repos\лаба 6 1 5\лаба 6 1 5\obj\Debug\net6.0\refint\лаба 6 1 5.dll
+C:\Users\user\source\repos\лаба 6 1 5\лаба 6 1 5\obj\Debug\net6.0\лаба 6 1 5.pdb
+C:\Users\user\source\repos\лаба 6 1 5\лаба 6 1 5\obj\Debug\net6.0\лаба 6 1 5.genruntimeconfig.cache
+C:\Users\user\source\repos\лаба 6 1 5\лаба 6 1 5\obj\Debug\net6.0\ref\лаба 6 1 5.dll
