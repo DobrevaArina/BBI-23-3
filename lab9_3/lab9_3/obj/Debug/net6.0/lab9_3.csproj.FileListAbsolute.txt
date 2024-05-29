@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\lab9_3\lab9_3\bin\Debug\net6.0\lab9_3.exe
+C:\Users\user\Desktop\lab9_3\lab9_3\bin\Debug\net6.0\lab9_3.deps.json
+C:\Users\user\Desktop\lab9_3\lab9_3\bin\Debug\net6.0\lab9_3.runtimeconfig.json
+C:\Users\user\Desktop\lab9_3\lab9_3\bin\Debug\net6.0\lab9_3.dll
+C:\Users\user\Desktop\lab9_3\lab9_3\bin\Debug\net6.0\lab9_3.pdb
+C:\Users\user\Desktop\lab9_3\lab9_3\obj\Debug\net6.0\lab9_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\lab9_3\lab9_3\obj\Debug\net6.0\lab9_3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\lab9_3\lab9_3\obj\Debug\net6.0\lab9_3.AssemblyInfo.cs
+C:\Users\user\Desktop\lab9_3\lab9_3\obj\Debug\net6.0\lab9_3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab9_3\lab9_3\obj\Debug\net6.0\lab9_3.dll
+C:\Users\user\Desktop\lab9_3\lab9_3\obj\Debug\net6.0\refint\lab9_3.dll
+C:\Users\user\Desktop\lab9_3\lab9_3\obj\Debug\net6.0\lab9_3.pdb
+C:\Users\user\Desktop\lab9_3\lab9_3\obj\Debug\net6.0\lab9_3.genruntimeconfig.cache
+C:\Users\user\Desktop\lab9_3\lab9_3\obj\Debug\net6.0\ref\lab9_3.dll
