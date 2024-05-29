@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\lab9_2\lab9_2\bin\Debug\net6.0\lab9_2.exe
+C:\Users\user\Desktop\lab9_2\lab9_2\bin\Debug\net6.0\lab9_2.deps.json
+C:\Users\user\Desktop\lab9_2\lab9_2\bin\Debug\net6.0\lab9_2.runtimeconfig.json
+C:\Users\user\Desktop\lab9_2\lab9_2\bin\Debug\net6.0\lab9_2.dll
+C:\Users\user\Desktop\lab9_2\lab9_2\bin\Debug\net6.0\lab9_2.pdb
+C:\Users\user\Desktop\lab9_2\lab9_2\obj\Debug\net6.0\lab9_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\lab9_2\lab9_2\obj\Debug\net6.0\lab9_2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\lab9_2\lab9_2\obj\Debug\net6.0\lab9_2.AssemblyInfo.cs
+C:\Users\user\Desktop\lab9_2\lab9_2\obj\Debug\net6.0\lab9_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab9_2\lab9_2\obj\Debug\net6.0\lab9_2.dll
+C:\Users\user\Desktop\lab9_2\lab9_2\obj\Debug\net6.0\refint\lab9_2.dll
+C:\Users\user\Desktop\lab9_2\lab9_2\obj\Debug\net6.0\lab9_2.pdb
+C:\Users\user\Desktop\lab9_2\lab9_2\obj\Debug\net6.0\lab9_2.genruntimeconfig.cache
+C:\Users\user\Desktop\lab9_2\lab9_2\obj\Debug\net6.0\ref\lab9_2.dll
